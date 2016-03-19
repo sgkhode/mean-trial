@@ -1,0 +1,26 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgkhode/mean-trial.git"
+  },
+  "author": "Sandeep G. Khode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sgkhode/mean-trial/issues"
+  },
+  "homepage": "https://github.com/sgkhode/mean-trial#readme",
+  "devDependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.6",
+    "morgan": "^1.7.0"
+  }
+}

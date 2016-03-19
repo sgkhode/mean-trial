@@ -1,5 +1,5 @@
 node_modules/\nbower_components/
-
-http-server/node_modules/.bin/mime
 *.cmd
 http-server/node_modules/
+
+.vscode/launch.json
